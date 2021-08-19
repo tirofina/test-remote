@@ -1,4 +1,4 @@
 # test-remote
 
-# from 6 node
+# from 6 & 7 node
 
